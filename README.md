@@ -1,3 +1,8 @@
+## Joyce Wong
+
+## Learning Resources
+[Django, React, SQLite learning series](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw0PjVwymNc64NkUNbZlhFw)
+[Django Rest Framework documentation views tutorial](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
 # New York City Council Full Stack Coding Challenge
 You will have **1 full week** to complete this challenge starting when you received the challenge from our office. You can submit your challenge using our [Google Form](https://forms.gle/HXCXFiVvFAJ3WzAc7).
 
@@ -48,15 +53,19 @@ We’ve set up some starter code for you to use. For this challenge you will be 
 
 ## MVP
 ### The Django Side ([Django Documentation](https://docs.djangoproject.com/en/2.2/))
-1. Fill in the empty viewsets with database queries that the frontend is requesting (see React MVP #2) (`fullstack-coding-challenge/testApp/complaint_app/views.py`) ([Django REST framework viewset documentation](https://www.django-rest-framework.org/api-guide/viewsets/))
+1. Fill in the empty viewsets with database queries that the frontend is requesting (see React MVP #2) (`fullstack-coding-challenge/testApp/complaint_app/views.py`) ([Django REST framework viewset documentation](https://www.django-rest-framework.org/api-guide/viewsets/))<br>
+[]The number of open cases in their district (has an open date, but no closing date)<br>
+[]The number of closed cases in their district<br>
+[]The top type of complaint being made in their district<br>
+[]Tabular data of all complaints made in their district<br>
 
 ### The React Side ([React Documentation](https://reactjs.org/docs/getting-started.html))
 1. Create a simple login page for Council members to input their credentials (see above in the ‘[What we’re providing](https://github.com/NewYorkCityCouncil/fullstack-coding-challenge#what-were-providing)’ section for the format)
 2. Create simple dashboard page that displays the following information:
-    - The number of open cases in their district (has an open date, but no closing date)
-    - The number of closed cases in their district
-    - The top type of complaint being made in their district
-    - Tabular data of all complaints made in their district
+[]The number of open cases in their district (has an open date, but no closing date)<br>
+[]The number of closed cases in their district<br>
+[] The top type of complaint being made in their district<br>
+[]Tabular data of all complaints made in their district<br>
 
 ## BONUS POINTS
 ### The Django Side
