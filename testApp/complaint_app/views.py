@@ -8,9 +8,9 @@ from rest_framework import status
 class ComplaintViewSet(viewsets.ModelViewSet):
   http_method_names = ['get']
   serializer_class = ComplaintSerializer
+  queryset = Complaint.objects.all()
   def list(self, request):
     # Get all complaints from the user's district
-    complaints = Complaint.objects.all()
     return Response(serializer_class.data)
 
 class OpenCasesViewSet(viewsets.ModelViewSet):

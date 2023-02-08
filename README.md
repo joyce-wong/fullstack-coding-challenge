@@ -61,7 +61,7 @@ We’ve set up some starter code for you to use. For this challenge you will be 
 
 ### The React Side ([React Documentation](https://reactjs.org/docs/getting-started.html))
 1. Create a simple login page for Council members to input their credentials (see above in the ‘[What we’re providing](https://github.com/NewYorkCityCouncil/fullstack-coding-challenge#what-were-providing)’ section for the format)
-2. Create simple dashboard page that displays the following information:
+2. Create simple dashboard page that displays the following information:<br>
 []The number of open cases in their district (has an open date, but no closing date)<br>
 []The number of closed cases in their district<br>
 [] The top type of complaint being made in their district<br>
