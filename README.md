@@ -1,8 +1,11 @@
 ## Joyce Wong
 
 ## Learning Resources
-[Django, React, SQLite learning series](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw0PjVwymNc64NkUNbZlhFw)
-[Django Rest Framework documentation views tutorial](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
+- [Django, React, SQLite learning series](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw0PjVwymNc64NkUNbZlhFw)
+- [Django React Medium article](https://medium.com/@taohidulii/serving-react-and-django-together-2089645046e4#:~:text=Run%20the%20Django%20server%20using,app%20in%20the%20same%20server!)
+- [Django Rest Framework documentation views tutorial](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
+- [Django Log In and Registration System Medium article](https://python.plainenglish.io/how-to-build-your-own-login-and-registration-system-in-django-ae39a726cb8a)
+- [Django Token Authentication with Custom User Model](https://python.plainenglish.io/django-token-authentication-with-custom-user-model-2d780237bc4)
 # New York City Council Full Stack Coding Challenge
 You will have **1 full week** to complete this challenge starting when you received the challenge from our office. You can submit your challenge using our [Google Form](https://forms.gle/HXCXFiVvFAJ3WzAc7).
 

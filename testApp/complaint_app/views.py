@@ -11,7 +11,8 @@ class ComplaintViewSet(viewsets.ModelViewSet):
   queryset = Complaint.objects.all()
   def list(self, request):
     # Get all complaints from the user's district
-    return Response(serializer_class.data)
+    # return Response(serializer_class.data)
+    return Response()
 
 class OpenCasesViewSet(viewsets.ModelViewSet):
   http_method_names = ['get']
