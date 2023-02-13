@@ -4,6 +4,9 @@
 - [Django, React, SQLite learning series](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw0PjVwymNc64NkUNbZlhFw)
 - [Django React Medium article](https://medium.com/@taohidulii/serving-react-and-django-together-2089645046e4#:~:text=Run%20the%20Django%20server%20using,app%20in%20the%20same%20server!)
 - [Django Rest Framework documentation views tutorial](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
+- [Django Rest Framework Query Parameters](https://www.django-rest-framework.org/api-guide/filtering/)
+- [Django Queryset Documentation](https://docs.djangoproject.com/en/4.1/ref/models/querysets/)
+- [How to Serialize Data with Django Rest Framework](https://sweetcode.io/how-to-serialize-data-with-django-rest-framework/)
 - [Django Log In and Registration System Medium article](https://python.plainenglish.io/how-to-build-your-own-login-and-registration-system-in-django-ae39a726cb8a)
 - [Django Token Authentication with Custom User Model](https://python.plainenglish.io/django-token-authentication-with-custom-user-model-2d780237bc4)
 # New York City Council Full Stack Coding Challenge
@@ -57,8 +60,8 @@ We’ve set up some starter code for you to use. For this challenge you will be 
 ## MVP
 ### The Django Side ([Django Documentation](https://docs.djangoproject.com/en/2.2/))
 1. Fill in the empty viewsets with database queries that the frontend is requesting (see React MVP #2) (`fullstack-coding-challenge/testApp/complaint_app/views.py`) ([Django REST framework viewset documentation](https://www.django-rest-framework.org/api-guide/viewsets/))<br>
-[]The number of open cases in their district (has an open date, but no closing date)<br>
-[]The number of closed cases in their district<br>
+[X]The number of open cases in their district (has an open date, but no closing date)<br>
+[X]The number of closed cases in their district<br>
 []The top type of complaint being made in their district<br>
 []Tabular data of all complaints made in their district<br>
 
